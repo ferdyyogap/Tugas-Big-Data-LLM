@@ -78,7 +78,7 @@ def main():
     )
 
     st.write("")
-    st.header(":blue[Cover Letter]")
+    st.header(":blue[Surat Lamaran]")
     st.write("")
 
     st.markdown(response.result, unsafe_allow_html=False, help=None)
