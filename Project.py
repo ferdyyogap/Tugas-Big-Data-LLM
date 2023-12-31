@@ -10,7 +10,7 @@ API_KEY = os.environ.get("PALM_API_KEY")
 palm.configure(api_key=API_KEY)
 
 def main():
-  st.header("Cover Letter AI ✍️")
+  st.header("Surat Lamaran AI ✍️")
   st.write("")
 
   # Personal information
